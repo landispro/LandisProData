@@ -1,0 +1,3359 @@
+1               #Harvest Regime ID#
+1               #Harvest Regime Label: commercial thinning#
+1               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+2               #Harvest Regime Label: commercial thinning#
+2               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+3               #Harvest Regime Label: commercial thinning#
+3               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+4               #Harvest Regime Label: commercial thinning#
+4               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+5               #Harvest Regime Label: commercial thinning#
+5               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+6               #Harvest Regime Label: commercial thinning#
+6               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+7               #Harvest Regime Label: commercial thinning#
+7               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+8               #Harvest Regime Label: commercial thinning#
+8               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+9               #Harvest Regime Label: commercial thinning#
+9               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+10               #Harvest Regime Label: commercial thinning#
+10               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+11               #Harvest Regime Label: commercial thinning#
+11              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+12               #Harvest Regime Label: commercial thinning#
+12               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+13               #Harvest Regime Label: commercial thinning#
+13               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+14               #Harvest Regime Label: commercial thinning#
+14               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+15               #Harvest Regime Label: commercial thinning#
+15               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+16               #Harvest Regime Label: commercial thinning#
+16               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+17               #Harvest Regime Label: commercial thinning#
+17               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+18               #Harvest Regime Label: commercial thinning#
+18               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+19               #Harvest Regime Label: commercial thinning#
+19               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+20               #Harvest Regime Label: commercial thinning#
+20               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+21               #Harvest Regime Label: commercial thinning#
+21               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+22               #Harvest Regime Label: commercial thinning#
+22               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+23               #Harvest Regime Label: commercial thinning#
+23               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+24               #Harvest Regime Label: commercial thinning#
+24               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+25               #Harvest Regime Label: commercial thinning#
+25               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+26               #Harvest Regime Label: commercial thinning#
+26              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+27               #Harvest Regime Label: commercial thinning#
+27               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+28               #Harvest Regime Label: commercial thinning#
+28               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+29               #Harvest Regime Label: commercial thinning#
+29               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+30               #Harvest Regime Label: commercial thinning#
+30               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+31               #Harvest Regime Label: commercial thinning#
+31               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+32               #Harvest Regime Label: commercial thinning#
+32              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+33               #Harvest Regime Label: commercial thinning#
+33               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+34               #Harvest Regime Label: commercial thinning#
+34               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+35               #Harvest Regime Label: commercial thinning#
+35               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+36               #Harvest Regime Label: commercial thinning#
+36               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+37               #Harvest Regime Label: commercial thinning#
+37               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+38               #Harvest Regime Label: commercial thinning#
+38              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+39               #Harvest Regime Label: commercial thinning#
+39               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+40               #Harvest Regime Label: commercial thinning#
+40               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+41               #Harvest Regime Label: commercial thinning#
+41               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+42               #Harvest Regime Label: commercial thinning#
+42              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+43              #Harvest Regime Label: commercial thinning#
+43               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+44               #Harvest Regime Label: commercial thinning#
+44               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+45               #Harvest Regime Label: commercial thinning#
+45               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+46               #Harvest Regime Label: commercial thinning#
+46               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+47               #Harvest Regime Label: commercial thinning#
+47               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+48               #Harvest Regime Label: commercial thinning#
+48               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+49               #Harvest Regime Label: commercial thinning#
+49               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+50               #Harvest Regime Label: commercial thinning#
+50               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+51               #Harvest Regime Label: commercial thinning#
+51               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+52               #Harvest Regime Label: commercial thinning#
+52               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+53               #Harvest Regime Label: commercial thinning#
+53               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+54               #Harvest Regime Label: commercial thinning#
+54               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+55               #Harvest Regime Label: commercial thinning#
+55               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+56               #Harvest Regime Label: commercial thinning#
+56               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+57               #Harvest Regime Label: commercial thinning#
+57               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+58               #Harvest Regime Label: commercial thinning#
+58               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+59               #Harvest Regime Label: commercial thinning#
+59               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+60               #Harvest Regime Label: commercial thinning#
+60               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+61               #Harvest Regime Label: commercial thinning#
+61               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+62               #Harvest Regime Label: commercial thinning#
+62               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+63               #Harvest Regime Label: commercial thinning#
+63               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+64              #Harvest Regime Label: commercial thinning#
+64               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+65               #Harvest Regime Label: commercial thinning#
+65               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+66               #Harvest Regime Label: commercial thinning#
+66               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+67               #Harvest Regime Label: commercial thinning#
+67               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+68               #Harvest Regime Label: commercial thinning#
+68               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+69               #Harvest Regime Label: commercial thinning#
+69               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+70               #Harvest Regime Label: commercial thinning#
+70               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+71               #Harvest Regime Label: commercial thinning#
+71               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+72               #Harvest Regime Label: commercial thinning#
+72               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+73               #Harvest Regime Label: commercial thinning#
+73               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+74               #Harvest Regime Label: commercial thinning#
+74               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+75               #Harvest Regime Label: commercial thinning#
+75               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+76               #Harvest Regime Label: commercial thinning#
+76               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8            #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+77               #Harvest Regime Label: commercial thinning#
+77               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+78               #Harvest Regime Label: commercial thinning#
+78               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+79               #Harvest Regime Label: commercial thinning#
+79               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+80               #Harvest Regime Label: commercial thinning#
+80               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+81               #Harvest Regime Label: commercial thinning#
+81               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+82               #Harvest Regime Label: commercial thinning#
+82               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+83               #Harvest Regime Label: commercial thinning#
+83               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+84               #Harvest Regime Label: commercial thinning#
+84               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+85               #Harvest Regime Label: commercial thinning#
+85               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+86               #Harvest Regime Label: commercial thinning#
+86               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+87               #Harvest Regime Label: commercial thinning#
+87               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+88               #Harvest Regime Label: commercial thinning#
+88               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+89               #Harvest Regime Label: commercial thinning#
+89               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+90               #Harvest Regime Label: commercial thinning#
+90               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+91               #Harvest Regime Label: commercial thinning#
+91               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+92               #Harvest Regime Label: commercial thinning#
+92               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+93               #Harvest Regime Label: commercial thinning#
+93               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+94               #Harvest Regime Label: commercial thinning#
+94               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+95               #Harvest Regime Label: commercial thinning#
+95               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+96               #Harvest Regime Label: commercial thinning#
+96               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+97               #Harvest Regime Label: commercial thinning#
+97               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+98               #Harvest Regime Label: commercial thinning#
+98               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+99               #Harvest Regime Label: commercial thinning#
+99               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+6             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+100               #Harvest Regime Label: commercial thinning#
+100             #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+101               #Harvest Regime Label: commercial thinning#
+101              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+102               #Harvest Regime Label: commercial thinning#
+102              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+103               #Harvest Regime Label: commercial thinning#
+103              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+104               #Harvest Regime Label: commercial thinning#
+104              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+105               #Harvest Regime Label: commercial thinning#
+105              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+16             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+106               #Harvest Regime Label: commercial thinning#
+106              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+107               #Harvest Regime Label: commercial thinning#
+107               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+108               #Harvest Regime Label: commercial thinning#
+108              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+109               #Harvest Regime Label: commercial thinning#
+109              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#               
+110             #Harvest Regime Label: commercial thinning#
+110               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+111               #Harvest Regime Label: commercial thinning#
+111              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+14             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+112               #Harvest Regime Label: commercial thinning#
+112              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+113               #Harvest Regime Label: commercial thinning#
+113              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+12             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+114               #Harvest Regime Label: commercial thinning#
+114              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+115               #Harvest Regime Label: commercial thinning#
+115              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+116               #Harvest Regime Label: commercial thinning#
+116             #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+117               #Harvest Regime Label: commercial thinning#
+117              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+4             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+118               #Harvest Regime Label: commercial thinning#
+118               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+8             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+119               #Harvest Regime Label: commercial thinning#
+119              #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+2             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#
+
+1               #Harvest Regime ID#
+120               #Harvest Regime Label: commercial thinning#
+120               #Management Area#
+2               #Rotation Age: unused#
+2              #Rank alrogithm#
+10             #Entry Year#
+16             #REEntry Interval#
+16.1             #Minimum Stand Harvest Basal Area#
+0              #0 - Remove smallest trees first, 1 - Remove largest trees first#
+1              #Proportion of Management Area to Harvest#
+6.88              #Target Stand Basal Area#
+
+#List species below in same order as species attribute file and assign priority rank for removal#
+#harvest priotiry, flag for harvest, flag for planting, number of trees planted#
+10 1 0 0 #whiteoak# 
+11 1 0 0 #ShortPine#  
+7 1 0 0 #Blackoak# 
+9 1 0 0 #PostOak# 
+1 1 0 0 #ScarletOak#
+2 1 0 0 #RedCedar#
+8 1 0 0 #northernRO#
+6 1 0 0 #MockHick#
+4 1 0 0 #SugarMaple#
+3 1 0 0 #redmaple#
+5 1 0 0 #Blackcherry#
+12 0 0 0 #PseudoSpp#
+0 #reentry flag#

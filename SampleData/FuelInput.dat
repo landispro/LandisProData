@@ -1,0 +1,228 @@
+[SPECIES]
+#Live fuel quality coefficient (FQC) by species #
+#Whiteoak# 0.5
+#Shortleafpine# 1
+#Blackoak# 0.5
+#Postoak# 0.5
+#Scarletoak# 0.5
+#EasternRedCedar# 1
+#Northernredoak# 0.5
+#MockernutHickory# 0.5
+#SugarMaple# 0.5
+#RedMaple# 0.5
+#BlackCherry# 0.5
+#pseudospp# 0.5
+
+
+
+
+#Fine fuel accumulation curves by species #
+#Fine fuel classes for WhiteOak# 1      2       3        4         5
+#Age of WhiteOak#                 0     30     70     100      120
+#Fine fuel classes for ShorthealfPine# 1      2       3        4         5
+# Age of ShorthealfPine#                    10     30     70    90      110
+#Fine fuel classes for BlackOak# 1      2       3        4         5
+# Age of BlackOak#                  0     30     70     70      70
+#Fine fuel classes for PostOak# 1      2       3        4         5
+# Age of PostOak#                   0     30     70     90      100
+#Fine fuel classes for ScarletOak# 1      2       3        4         5
+# Age of ScarletOak#              0     30     70     70      70
+#Fine fuel classes for EasternCedar# 1      2       3        4         5
+# Age of EasternCedar#                  0     30     70     90      110
+#Fine fuel classes for NorthernRedoak# 1      2       3        4         5
+# Age of NorthernRedoak#                     0     30     70     100      120
+#Fine fuel classes for MockHick# 1      2       3        4         5
+# Age of MockHick#                   0     30     70     70      70
+#Fine fuel classes for SugarMaple# 1      2       3        4         5
+# Age of SugarMaple#                   0     30     70     100      120
+#Fine fuel classes for RedMaple# 1      2       3        4         5
+# Age of RedMaple#                  0     30     70     70      70
+#Fine fuel classes for BlackCheery# 1      2       3        4         5
+# Age of BlackCheery#                    0     30     70     90      100
+#Fine fuel classes for pseudospp# 1      2       3        4         5
+# Age of pseudospp#                  10     30     70     90      100
+
+ 
+
+
+#Fire mortality parameters#
+#  B0       B1        B2       X2#
+#T1# -0.0585 -0.6463 24.4614  #S1# 0.25
+#T2# 0.1683 -0.1332 3.4152    #S2# 1.07
+#T3# 1.2165 -0.4758 6.0415 #S3# 1.4
+#T4# 1.0229 -0.2646 2.6232 #S4# 2.04
+#T5# 2.775 -1.1224 2.812 #S5# 20.0
+
+
+[LANDTYPE]
+#Probability of low/medium intensity fire to become a crown fire #
+#LT0#   0.0
+#LT1# 0.01   
+#LT2# 0.02
+#LT3# 0.03
+#LT4# 0.02
+#LT5# 0.05
+#LT6# 0.0
+#LT7# 0.01   
+#LT8# 0.02
+#LT9# 0.03
+#LT10# 0.02
+#LT11# 0.05
+#LT12# 0.0
+
+
+#Landtype0 name#      empty
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype1 name#      sw.slope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype2 name#      ne.slope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype3 name#      ridge
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype4 name#      updrain
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype5 name#      bottoms
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+
+#Landtype6 name#      gentleslope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+
+#Landtype7 name#      sw.slope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype8 name#      ne.slope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype9 name#      ridge
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype10 name#      updrain
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+#Landtype11 name#      bottoms
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+
+#Landtype12 name#      gentleslope
+#Fine fuel classes#                       # 1       2        3        4        5 #
+#Fine fuel loads modified by landtype1#    1       1        2        3       4
+#Coarse fuel accumulation curve for landtype1# 
+#Coarse fuel classes#                                                   # 1       2        3        4        5 #
+#Years of coarse fuel accumulation to reach the corresponding classes#  6      60      110    170    220
+#Coarse fuel decomposition curve for landtype1# 
+#Coarse fuel classes#                  # 4       3        2        1        0 #
+#Years of decomposition since last disturbance#  20      60      100    140    200
+
+
+[FIRE]
+#Fire severity classes#   # 1       2        3       4         5 #
+#Fine fuel reduction#   -1      -3       -4      -4        -5
+#Coarse fuel reduction#   0       -1       -2      -3        -3
+
+
+[WIND]
+#Windthrow severity classes# # 1       2        3       4        5 #
+#number of fine fuel classes increased#    1       1        2       2        3
+#number of coarse fuel classes increased#    1       2        3       4        4
+
+[BDA]
+#Total BDA types # 0
+
+[HARVEST]
+#Total harvest events # 1
+#Harvest event 1 #
+#Fine fuel load before harvest # # 0      1      2       3      4     5#
+#Fine fuel load after harvest #    2      2      3       4      5     5
+#Coarse fuel load before harvest # # 0      1      2       3      4     5#
+#Coarse fuel load after harvest #    2      3      3       4      5      5

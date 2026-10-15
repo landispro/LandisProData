@@ -1,0 +1,73 @@
+#I. select species and attributes to output for all age cohorts#            
+# TPA BA BIO IV SEEDS GSO #  
+Koreanpine    Y Y N N Y N
+Ash   		Y Y N N Y N     
+larch    Y Y N N Y N     
+maple     Y Y N N Y N     
+           
+#TPA BA Bio Car GSO#      
+Total  Y Y N N N      
+           
+N #II. select species to attributes to output for specific age cohorts#
+           
+# TPA BA Bio IV#       
+Koreanpine       N N N N   
+Ash      N N N N    
+larch       N N N N     
+maple        N N N N  
+
+    
+#TPA BA Bio Car RD#       
+Total N N N N N      
+           
+#select specific age cohorts to output#      
+Koreanpine 0  
+Ash 0   
+larch 0     
+maple 0  
+
+         
+#III. output age distribution for each species#    
+N/A          
+
+#IV Mortality for each species#
+N
+#Fire Fuel Harvest Succession#
+N N N N
+
+#DTN DTNBA DTNBIO#
+Koreanpine       N N N   
+Ash      N N N    
+larch       N N N     
+maple        N N N  
+
+#V - Mortality by age cohort for each species#
+N
+
+#Fire Fuel Harvest Succession#
+N N N N
+
+#DTN DTNBA DTNBIO#
+Koreanpine       N N N   
+Ash      N N N    
+larch       N N N     
+maple        N N N
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

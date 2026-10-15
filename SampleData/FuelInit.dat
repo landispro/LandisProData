@@ -1,0 +1,10 @@
+FuelInput.dat #1. fuel module input file#
+FuelRule.dat #2. fuel module rules file #
+FireRegime.dat #3. Fire regime attributes#
+landform.gis #4. Fire regime map#
+FuelManagement2.dat  #or Fuel management event file#
+fuel.log #6. Fuel tracking output file#
+fuelman.log #7. Fuel management output file#
+stand_fuel.log #8. Fuel management output for each stand#
+stand.gis   #9. Stand identifier input map file#
+fireunit.gis  #10. Management area identifier input map#

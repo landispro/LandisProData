@@ -1,0 +1,111 @@
+#I. select species and attributes to output for all age cohorts#            
+# TPA BA BIO IV SEEDS GSO #  
+whiteoak    Y N N N N N
+ShortPine   Y N N N N N     
+Blackoak    Y N N N N N     
+PostOak     Y N N N N N     
+ScarletOak  Y N N N N N     
+RedCedar    Y N N N N N     
+northernRO  Y N N N N N     
+MockHick    Y N N N N N  
+SugarMaple  Y N N N N N     
+redmaple    Y N N N N N 
+Blackcherry Y N N N N N
+PseudoSpp   Y N N N N N     
+           
+#TPA BA Bio Car GSO#      
+Total  Y N N N N      
+           
+N #II. select species to attibutes to output for specific age cohorts#
+           
+# TPA BA Bio IV#       
+whiteoak       N N N N   
+ShortPine      N N N N    
+Blackoak       N N N N     
+PostOak        N N N N    
+ScarletOak     N N N N     
+RedCedar       N N N N     
+northernRO     N N N N     
+MockHick       N N N N    
+SugarMaple     N N N N     
+redmaple       N N N N     
+Blackcherry    N N N N    
+PseudoSpp      N N N N 
+    
+#TPA BA Bio Car RD#       
+Total Y Y Y N N      
+           
+#select specific age cohorts to output#      
+whiteoak 0  
+ShortPine 0   
+Blackoak 0     
+PostOak 0    
+ScarletOak 0     
+RedCedar 0     
+northernRO 0     
+MockHick 0    
+SugarMaple 0     
+redmaple 0     
+Blackcherry 0    
+PseudoSpp 0
+         
+#III. output age distribution for each species#    
+N/A          
+
+#IV Mortality for each species#
+Y
+#Fire Fuel Harvest Succession#
+Y Y Y Y
+
+#DTN DTNBA DTNBIO#
+whiteoak       N N N   
+ShortPine      N N N    
+Blackoak       N N N     
+PostOak        N N N    
+ScarletOak     N N N     
+RedCedar       N N N     
+northernRO     N N N     
+MockHick       N N N    
+SugarMaple     N N N     
+redmaple       N N N     
+Blackcherry    N N N    
+PseudoSpp      Y N N 
+
+#V - Mortality by age cohort for each species#
+Y
+
+#Fire Fuel Harvest Succession#
+Y Y Y Y
+
+#DTN DTNBA DTNBIO#
+whiteoak       Y N N	2 5-10 15-17  
+ShortPine      N N N	2 5-10 15-17  
+Blackoak       N N N	3 10-20 25-30 45-50   
+PostOak        N N N	2 5-10 15-17 
+ScarletOak     N N N	3 10-20 25-30 45-50   
+RedCedar       N N N	2 5-10 15-17 
+northernRO     N Y N	3 10-20 25-30 45-50 
+MockHick       N N N	2 5-10 15-17  
+SugarMaple     N N N	3 10-20 25-30 45-50  
+redmaple       N N N	2 5-10 15-17  
+Blackcherry    N Y Y	3 10-20 25-30 45-50 
+PseudoSpp      N N Y	2 5-8 15-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

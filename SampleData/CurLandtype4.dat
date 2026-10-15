@@ -1,0 +1,246 @@
+empty
+40 500
+0.00
+0.00
+0.00
+0.00
+#whiteoak# 0.00
+#slpine# 0.00
+#blackoak# 0.00
+#postoak# 0.00
+#scarletoak# 0.00
+#eastredcedar# 0.00
+#nroak# 0.00
+#mockhickory# 0.00
+#sugarmaple# 0.00
+#redmaple# 0.00
+#blackcherry# 0.00
+#pseudospp# 0.00
+
+sw.slope #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.4788
+#slpine# 0.4166
+#blackoak# 0.4012
+#postoak# 0.3504
+#scarletoak# 0.3301
+#eastredcedar# 0.3607
+#nroak# 0.4445
+#mockhickory# 0.4784
+#sugarmaple# 0.5281
+#redmaple# 0.5837
+#blackcherry# 0.3878
+#pseudospp# 0.40
+
+ne.slope #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.4750
+#slpine# 0.4239
+#blackoak# 0.3977
+#postoak# 0.3469
+#scarletoak# 0.3294
+#eastredcedar# 0.3567
+#nroak# 0.4403
+#mockhickory# 0.4720
+#sugarmaple# 0.5258
+#redmaple# 0.5854
+#blackcherry# 0.3946
+#pseudospp# 0.40
+
+ridge #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.5522
+#slpine# 0.5334
+#blackoak# 0.4495
+#postoak# 0.4068
+#scarletoak# 0.3925
+#eastredcedar# 0.4558
+#nroak# 0.5097
+#mockhickory# 0.6032
+#sugarmaple# 0.5766
+#redmaple# 0.6079
+#blackcherry# 0.5577
+#pseudospp# 0.40
+
+updrain #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.4724
+#slpine# 0.4087
+#blackoak# 0.3904
+#postoak# 0.3392
+#scarletoak# 0.3169
+#eastredcedar# 0.3504
+#nroak# 0.4371
+#mockhickory# 0.4490
+#sugarmaple# 0.5265
+#redmaple# 0.5816
+#blackcherry# 0.3640
+#pseudospp# 0.40
+
+bottoms #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.4988
+#slpine# 0.4558
+#blackoak# 0.4267
+#postoak# 0.3783
+#scarletoak# 0.3607
+#eastredcedar# 0.3831
+#nroak# 0.4663
+#mockhickory# 0.5357
+#sugarmaple# 0.5642
+#redmaple# 0.5967
+#blackcherry# 0.4750
+#pseudospp# 0.40
+
+gentleslope #982#
+40 500
+0.35
+0.55
+0.65
+0.882
+#whiteoak# 0.5580
+#slpine# 0.5569
+#blackoak# 0.4535
+#postoak# 0.4087
+#scarletoak# 0.3925
+#eastredcedar# 0.4741
+#nroak# 0.5246
+#mockhickory# 0.6035
+#sugarmaple# 0.5843
+#redmaple# 0.6079
+#blackcherry# 0.5627
+#pseudospp# 0.40
+
+sw.slope #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.3640
+#slpine# 0.2682
+#blackoak# 0.1572
+#postoak# 0.1395
+#scarletoak# 0.1280
+#eastredcedar# 0.2574
+#nroak# 0.3337
+#mockhickory# 0.1502
+#sugarmaple# 0.3729
+#redmaple# 0.3873
+#blackcherry# 0.1208
+#pseudospp# 0.40
+
+ne.slope #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.3646
+#slpine# 0.2637
+#blackoak# 0.1513
+#postoak# 0.1343
+#scarletoak# 0.1241
+#eastredcedar# 0.2518
+#nroak# 0.3313
+#mockhickory# 0.1440
+#sugarmaple# 0.3635
+#redmaple# 0.3761
+#blackcherry# 0.1139
+#pseudospp# 0.40
+
+ridge #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.3930
+#slpine# 0.3011
+#blackoak# 0.2299
+#postoak# 0.1994
+#scarletoak# 0.1807
+#eastredcedar# 0.2786
+#nroak# 0.3584
+#mockhickory# 0.2325
+#sugarmaple# 0.4422
+#redmaple# 0.4544
+#blackcherry# 0.1659
+#pseudospp# 0.40
+
+updrain #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.3439
+#slpine# 0.2419
+#blackoak# 0.1095
+#postoak# 0.0933
+#scarletoak# 0.0865
+#eastredcedar# 0.2360
+#nroak# 0.3104
+#mockhickory# 0.0707
+#sugarmaple# 0.2823
+#redmaple# 0.3175
+#blackcherry# 0.0466
+#pseudospp# 0.40
+
+bottoms #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.6556
+#slpine# 0.5550
+#blackoak# 0.4385
+#postoak# 0.4181
+#scarletoak# 0.4042
+#eastredcedar# 0.5461
+#nroak# 0.6220
+#mockhickory# 0.4055
+#sugarmaple# 0.6325
+#redmaple# 0.6590
+#blackcherry# 0.3633
+#pseudospp# 0.70
+
+gentleslope #985#
+40 500
+0.35
+0.55
+0.65
+0.888
+#whiteoak# 0.7277
+#slpine# 0.6685
+#blackoak# 0.6270
+#postoak# 0.5713
+#scarletoak# 0.5566
+#eastredcedar# 0.6201
+#nroak# 0.6946
+#mockhickory# 0.6480
+#sugarmaple# 0.8319
+#redmaple# 0.8342
+#blackcherry# 0.5830
+#pseudospp# 0.70
